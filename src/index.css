@@ -1,0 +1,16 @@
+:root {
+  --font: "Open Sans", sans-serif; 
+ --primary-color: #FE724C;
+ --primary-hover-color: #b1543a;
+  --text-color: #131010;
+ --text-secondary-color: #5B5B5E;
+ --white-color: #FFFFFF;
+ --separator-color: #D4D6E0;
+}
+
+body{
+  font-family: "Open Sans", sans-serif;
+  margin: 0;
+}
+
+
